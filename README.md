@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SraddhaMondal
-- 👀 I’m interested in C++ Programming , Love problem solving
-- 🌱 I’m currently learning full stack web development and DSA
-- 💞️ Love to listen Music and playing chess ,read story books in free time
+- 👀 I’m interested in C++ Programming , Love problem solving.
+- 🌱 I’m currently learning full stack web development and DSA.
+- 💞️ Love to listen Music, photography, painting, and to read story books in free time.
 - 📫 How to reach me --https://github.com/SraddhaMondal
 
 <!---
